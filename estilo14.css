@@ -1,0 +1,10 @@
+.animated-input {
+    padding: 10px;
+    width: 150px;
+    border: 1px solid #ccc;
+    transition: width 0.3s;
+    }
+
+    .animated-input:focus {
+    width: 300px;
+    }

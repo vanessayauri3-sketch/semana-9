@@ -1,0 +1,12 @@
+table, td { border: 1px solid #08eb40;
+border-spacing: 0;
+overflow-x: auto;
+}
+
+th, td {text-align: center; 
+padding: 10px;}
+
+th {background-color: #04AA6D;
+color: white;}
+
+tr:hover {background-color: rgb(73, 218, 128);}

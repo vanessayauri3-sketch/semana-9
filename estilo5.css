@@ -1,0 +1,10 @@
+h1{ border: 2px solid rgb(13, 221, 65);}
+
+h2{ border-left: 6px solid red;}
+
+p{ border-bottom: 6px solid #f39212;}
+
+h3{ border: 2px solid rgb(63, 25, 231);
+    border-radius: 15px;
+text-align: center;}
+
